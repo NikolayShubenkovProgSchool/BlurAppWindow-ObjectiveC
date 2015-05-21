@@ -15,6 +15,7 @@
 		4FD299EC1B0E178B00ADFDB9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4FD299EA1B0E178B00ADFDB9 /* LaunchScreen.xib */; };
 		4FD299F81B0E178B00ADFDB9 /* BlurInactiveScreen_Objective_CTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FD299F71B0E178B00ADFDB9 /* BlurInactiveScreen_Objective_CTests.m */; };
 		4FD29A031B0E190000ADFDB9 /* AppDelegate+NVSBlurAppScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FD29A021B0E190000ADFDB9 /* AppDelegate+NVSBlurAppScreen.m */; };
+		4FD29A051B0E1E2F00ADFDB9 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4FD29A041B0E1E2F00ADFDB9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		4FD299F71B0E178B00ADFDB9 /* BlurInactiveScreen_Objective_CTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlurInactiveScreen_Objective_CTests.m; sourceTree = "<group>"; };
 		4FD29A011B0E190000ADFDB9 /* AppDelegate+NVSBlurAppScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AppDelegate+NVSBlurAppScreen.h"; sourceTree = "<group>"; };
 		4FD29A021B0E190000ADFDB9 /* AppDelegate+NVSBlurAppScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AppDelegate+NVSBlurAppScreen.m"; sourceTree = "<group>"; };
+		4FD29A041B0E1E2F00ADFDB9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				4FD299E21B0E178B00ADFDB9 /* NVSBlurViewController.h */,
 				4FD299E31B0E178B00ADFDB9 /* NVSBlurViewController.m */,
 				4FD299E51B0E178B00ADFDB9 /* Main.storyboard */,
+				4FD29A041B0E1E2F00ADFDB9 /* README.md */,
 				4FD299E81B0E178B00ADFDB9 /* Images.xcassets */,
 				4FD299EA1B0E178B00ADFDB9 /* LaunchScreen.xib */,
 				4FD299DB1B0E178B00ADFDB9 /* Supporting Files */,
@@ -226,6 +229,7 @@
 			files = (
 				4FD299E41B0E178B00ADFDB9 /* NVSBlurViewController.m in Sources */,
 				4FD29A031B0E190000ADFDB9 /* AppDelegate+NVSBlurAppScreen.m in Sources */,
+				4FD29A051B0E1E2F00ADFDB9 /* README.md in Sources */,
 				4FD299E11B0E178B00ADFDB9 /* AppDelegate.m in Sources */,
 				4FD299DE1B0E178B00ADFDB9 /* main.m in Sources */,
 			);
